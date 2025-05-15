@@ -53,7 +53,7 @@ class WatermarkApp:
 
     def remove_bg_ai(self):
         if not self.handler.watermark_image_orig:
-            messagebox.showerror("Error", "It's required to load a watermakr image first!")
+            messagebox.showerror("Error", "It's required to load a watermark image first!")
             return
 
         self.handler.remove_bg_ai()

@@ -48,11 +48,19 @@ python main.py
 
 1. Load your base image using the **"Load Image"** button
 2. Add a watermark image using the **"Add Image Watermark"** button
-3. Optionally remove the background from your watermark with the **"Remover Fundo IA"** button
+3. Optionally remove the background from your watermark with the **"AI BG Remover"** button
 4. Position and resize the watermark by dragging:
    - Drag the watermark to position it
    - Drag the red square in the bottom-right corner to resize
 5. Save your watermarked image using the **"Merge & Save"** button
+
+---
+
+## Flowchart
+
+![Flowchart](./flowchart.svg)
+
+---
 
 ## Requirements
 
